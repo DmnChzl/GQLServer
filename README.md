@@ -1,8 +1,8 @@
 # GraphQL Server
 
-## Intro
+## Explanation
 
-This is a modern BookStore API made with **Go** and **GraphQL**.
+This is an example of modern API made with **Go** and **GraphQL** based on _book store_ idea.
 
 ### Mandatory
 

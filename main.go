@@ -46,6 +46,6 @@ func main() {
 		Playground: true,
 	})
 	http.Handle("/graphql", disableCors(h))
-	log.Println("Now Server Is Running On Port " + PORT)
+	log.Println("Server Is Listening On Port " + PORT)
 	http.ListenAndServe(":"+PORT, nil)
 }

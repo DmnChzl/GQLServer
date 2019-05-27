@@ -23,5 +23,5 @@ type Author struct {
 
 // Status As Model
 type Status struct {
-	Result string
+	Result string `json:"result"`
 }
