@@ -15,13 +15,13 @@ mongo --dbpath db
 
 ## Process
 
-Repository :
+Repository:
 
 ```
 git clone https://github.com/mrdoomy/gqlserver.git
 ```
 
-Dependencies :
+Dependencies:
 
 ```
 go get -v github.com/graphql-go/graphql
@@ -29,7 +29,7 @@ go get -v github.com/graphql-go/handler
 go get -v go.mongodb.org/mongo-driver/mongo
 ```
 
-Build :
+Build:
 
 ```
 go build main.go
