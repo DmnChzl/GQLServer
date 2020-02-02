@@ -35,7 +35,7 @@ Build:
 go build main.go
 ```
 
-Enjoy =)
+**Enjoy !**
 
 ## Docs
 
