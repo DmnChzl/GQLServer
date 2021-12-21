@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/mrdoomy/gqlserver/config"
-	"github.com/mrdoomy/gqlserver/models"
+	"github.com/dmnchzl/gqlserver/config"
+	"github.com/dmnchzl/gqlserver/models"
 
 	"go.mongodb.org/mongo-driver/bson"
 )

@@ -1,7 +1,7 @@
 package mutations
 
 import (
-	fields "github.com/mrdoomy/gqlserver/mutations/fields"
+	fields "github.com/dmnchzl/gqlserver/mutations/fields"
 
 	"github.com/graphql-go/graphql"
 )

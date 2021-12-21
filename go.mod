@@ -1,4 +1,4 @@
-module github.com/mrdoomy/gqlserver
+module github.com/dmnchzl/gqlserver
 
 go 1.12
 

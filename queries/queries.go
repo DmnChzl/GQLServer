@@ -1,7 +1,7 @@
 package queries
 
 import (
-	fields "github.com/mrdoomy/gqlserver/queries/fields"
+	fields "github.com/dmnchzl/gqlserver/queries/fields"
 
 	"github.com/graphql-go/graphql"
 )

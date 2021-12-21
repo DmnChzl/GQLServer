@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mrdoomy/gqlserver/mutations"
-	"github.com/mrdoomy/gqlserver/queries"
-	"github.com/mrdoomy/gqlserver/utils"
+	"github.com/dmnchzl/gqlserver/mutations"
+	"github.com/dmnchzl/gqlserver/queries"
+	"github.com/dmnchzl/gqlserver/utils"
 
 	"github.com/graphql-go/graphql"
 	"github.com/graphql-go/handler"

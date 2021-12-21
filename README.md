@@ -18,7 +18,7 @@ mongo --dbpath db
 Repository:
 
 ```
-git clone https://github.com/mrdoomy/gqlserver.git
+git clone https://github.com/dmnchzl/gqlserver.git
 ```
 
 Dependencies:

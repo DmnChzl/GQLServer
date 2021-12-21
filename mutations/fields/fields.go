@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/mrdoomy/gqlserver/config"
-	"github.com/mrdoomy/gqlserver/models"
-	"github.com/mrdoomy/gqlserver/types"
+	"github.com/dmnchzl/gqlserver/config"
+	"github.com/dmnchzl/gqlserver/models"
+	"github.com/dmnchzl/gqlserver/types"
 
 	"github.com/graphql-go/graphql"
 	"go.mongodb.org/mongo-driver/bson"
